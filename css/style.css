@@ -77,7 +77,7 @@ figure img{
 .music_name{
     font-size: 16px;
     text-align: center;
-    color: #87e6ee;
+    color: #87e6ee !important;
 }
 .singers{
     font-size: 14px;
