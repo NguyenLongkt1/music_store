@@ -68,7 +68,6 @@ body{
 }
 .items figure{
     width: 100%;
-
 }
 figure img{
     width: 100%;
@@ -168,7 +167,4 @@ figure img{
 .power_by a,.content a{
     text-decoration: underline;
     color: #0320a5;
-}
-.store img{
-
 }
